@@ -1,0 +1,16 @@
+{
+    "sinhvien": [
+        {
+            "Name": "A",
+            "lastName": "Nguyễn"
+        },
+        {
+            "Name": "B",
+            "lastName": "Nguyễn"
+        },
+        {
+            "Name": "C",
+            "lastName": "Nguyễn"
+        }
+    ]
+}
